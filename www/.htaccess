@@ -1,0 +1,29 @@
+
+# BEGIN DS-XML-RPC-FIX-HOTLINK
+# "BEGIN DS-XML-RPC-FIX-HOTLINK"와 "END DS-XML-RPC-FIX-HOTLINK" 사이의 지시문(줄)은 
+# 동적으로 생성되며 워드프레스 필터를 통해서만 수정해야합니다. 
+# 이 표시 사이의 지시문을 변경하면 덮어쓰게 됩니다.
+
+# END DS-XML-RPC-FIX-HOTLINK
+# BEGIN DS-XML-RPC-API
+# "BEGIN DS-XML-RPC-API"와 "END DS-XML-RPC-API" 사이의 지시문(줄)은 
+# 동적으로 생성되며 워드프레스 필터를 통해서만 수정해야합니다. 
+# 이 표시 사이의 지시문을 변경하면 덮어쓰게 됩니다.
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+
+Allow from 122.248.245.244/32
+Allow from 54.217.201.243/32
+Allow from 54.232.116.4/32
+Allow from 192.0.80.0/20
+Allow from 192.0.96.0/20
+Allow from 192.0.112.0/20
+Allow from 195.234.108.0/22
+Allow from 192.0.96.202/32
+Allow from 192.0.98.138/32
+Allow from 192.0.102.71/32
+Allow from 192.0.102.95/32
+</Files>
+
+# END DS-XML-RPC-API

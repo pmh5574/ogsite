@@ -1,0 +1,92 @@
+# Copyright (C) 2021 Sanjeev Aryal
+# This file is distributed under the same license as the WPForce Logout package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForce Logout 1.4.4\n"
+"Report-Msgid-Bugs-To: https://github.com/sanzeeb3/wp-force-logout/issues\n"
+"POT-Creation-Date: 2021-04-08 03:52:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-wp-force-logout-process.php:79
+msgid "Login Activity"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:131
+msgid "Online"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:136
+msgid "Offline "
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:137
+msgid "Last Login: "
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:138
+msgid "Never"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:357
+msgid "Logout"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:370
+msgid "Logout All Users"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:436
+msgid "Whoopee! 😀"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:438
+#. translators: 1. users count, 2. five stars + review link, 3. WordPress.org +
+#. review link
+msgid ""
+"WPForce Logout already started displaying your %1$d online users. Would you "
+"do me some favour and leave a %2$s review on %3$s to help us spread the "
+"word and boost my motivation?"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:441
+msgid "Sure, I'd love to!"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:442
+msgid "I need help!"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:443
+msgid "Dismiss Forever."
+msgstr ""
+
+#: includes/class-wp-force-logout.php:58 includes/class-wp-force-logout.php:67
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPForce Logout"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Forcefully logout WordPress user(s)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sanjeev Aryal"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sanjeebaryal.com.np"
+msgstr ""
+
+#: includes/class-wp-force-logout-process.php:133
+msgctxt "The action on users list page"
+msgid "Logout"
+msgstr ""
